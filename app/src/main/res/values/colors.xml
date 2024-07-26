@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="semiblack">#2C3639</color>
+    <color name="semiwhite">#DCD7C9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="brown">#A27B5C</color>
+    <color name="lightbrown">#E4C59E</color>
+
+    // Random Color
+    <color name="color1">#A25C5C</color>
+    <color name="color2">#A27B5C</color>
+    <color name="color3">#A29F5C</color>
+    <color name="color4">#87A25C</color>
+    <color name="color5">#5CA276</color>
+    <color name="color6">#5CA2A2</color>
+    <color name="color7">#5C86A2</color>
+    <color name="color8">#5E5CA2</color>
+    <color name="color9">#775CA2</color>
+</resources>
